@@ -25,6 +25,9 @@ setup(
     entry_points={
         'console_scripts': [
             'rings = turtles.rings:main',
+            'rings_exercise = turtles.rings_exercise:main',
+            'rings_solution = turtles.rings_solution:main',
+            
         ],
     },
 )
