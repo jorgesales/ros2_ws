@@ -27,7 +27,8 @@ setup(
             'rings = turtles.rings:main',
             'rings_exercise = turtles.rings_exercise:main',
             'rings_solution = turtles.rings_solution:main',
-            
+            'square_exercise = turtles.square_exercise:main',
+            'square_solution = turtles.square_solution:main',
         ],
     },
 )
